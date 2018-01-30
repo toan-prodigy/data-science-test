@@ -22,21 +22,26 @@ The datasets and paths are:
 ../datasets/gender_submission.csv
  
 1.  Getting Started
+
 Give your notebook a title with your full name included
 Import any libraries you may need
 
 2. Understanding and visualizing the data
+
 How many people survived? 
 Which gender was more likely to have survived?
 What was the average fare price?
 
 3. Deeper analysis of the data
+
 Were there a class(es) of passengers who were more likely to have survived? 
 
-4. Let's do some Machine Learning!
+4. How would you handle the missing data? 
+
+5. Let's do some Machine Learning!
+
 Make a prediction of which passengers will survive. The result set should be two columns, PassengerId and Survived
 What is the accuracy of your test?
 
-5. How would you handle the missing data? 
 
 Download your notebook (.ipynb) and submit.
